@@ -88,8 +88,8 @@
     "watchify": "^3.11.0"
   },
   "files": [
-    "bin/*.js",
-    "bin/*.txt",
+    "bin/run.js",
+    "bin/jack.js",
     "lib/*.js"
   ]
 }
